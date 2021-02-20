@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" datatype="plaintext" original="">
+        <body>
+
+            <trans-unit id="title_dashboard">
+                <source>title_dashboard</source>
+                <target>My new trans... Dashboard</target>
+            </trans-unit>
+
+            <trans-unit id="confirm_exit">
+                <source>confirm_exit</source>
+                <target>My new trans... You have unsaved changes.</target>
+            </trans-unit>
+
+            <trans-unit id="Admin">
+                <source>Admin</source>
+                <target>My new trans... Admin</target>
+            </trans-unit>
+
+
+        </body>
+    </file>
+</xliff>
